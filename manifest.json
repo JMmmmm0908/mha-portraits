@@ -1,0 +1,368 @@
+{
+  "repo": "JMmmmm0908/mha-portraits",
+  "consumer": "My Hero Academia: Unwritten Names",
+  "spec": {
+    "format": "webp",
+    "size": "512x640",
+    "aspectRatio": "4:5",
+    "framing": "head-and-shoulders",
+    "focalPoint": [
+      0.5,
+      0.3
+    ],
+    "direction": "Hero Society Evidence"
+  },
+  "count": 50,
+  "items": [
+    {
+      "id": "izuku",
+      "file": "izuku-favor.webp",
+      "subject": "Izuku Midoriya",
+      "era": "entrance-season",
+      "sha256": "06482f063af7054c35c2573328be28833be581cfe8032b85fd3acfba592f85ea"
+    },
+    {
+      "id": "bakugo",
+      "file": "bakugo-favor.webp",
+      "subject": "Katsuki Bakugo",
+      "era": "entrance-season",
+      "sha256": "db48512710e4a5b6244bf04036bddf7d21951d5e6bcb3cdb3379d88b28137fe6"
+    },
+    {
+      "id": "ochaco",
+      "file": "ochaco-favor.webp",
+      "subject": "Ochaco Uraraka",
+      "era": "entrance-season",
+      "sha256": "a463c0b617c3bce14281c57ec4612181d9997a40311d02e97d5050b218ed18b3"
+    },
+    {
+      "id": "iida",
+      "file": "iida-favor.webp",
+      "subject": "Tenya Iida",
+      "era": "entrance-season",
+      "sha256": "3f5477c880a3e967dd990412e0300574667733ae1860acb5626c29d1302c4d11"
+    },
+    {
+      "id": "shoto",
+      "file": "shoto-favor.webp",
+      "subject": "Shoto Todoroki",
+      "era": "entrance-season",
+      "sha256": "3431a70c8d5750ac37d02752d6b02d859393d606893165c0d7e59cffb873b566"
+    },
+    {
+      "id": "tsuyu",
+      "file": "tsuyu-favor.webp",
+      "subject": "Tsuyu Asui",
+      "era": "entrance-season",
+      "sha256": "3b9ea34681a5e57295724b751531f4fe095edf4777c003a0a8efee456b018971"
+    },
+    {
+      "id": "mineta",
+      "file": "mineta-favor.webp",
+      "subject": "Minoru Mineta",
+      "era": "entrance-season",
+      "sha256": "af3b7a7ac72a65799ee405fe987e2069811ce3de6ff74610a472ff6cb8382f09"
+    },
+    {
+      "id": "kirishima",
+      "file": "kirishima-favor.webp",
+      "subject": "Eijiro Kirishima",
+      "era": "entrance-season",
+      "sha256": "b2e81270c8ddfb1562c236a2a40a9362330469f274df9fe13f40b1c9b8eae222"
+    },
+    {
+      "id": "momo",
+      "file": "momo-favor.webp",
+      "subject": "Momo Yaoyorozu",
+      "era": "entrance-season",
+      "sha256": "dcb387a19732a2fba7fc726400daeb3a30fae6634bbde3277c7e40f11800285a"
+    },
+    {
+      "id": "tokoyami",
+      "file": "tokoyami-favor.webp",
+      "subject": "Fumikage Tokoyami",
+      "era": "entrance-season",
+      "sha256": "1b05ac26ca23a15aa3486a5383e86d9701dc90e64bac51cb5844a61d3fb8ca40"
+    },
+    {
+      "id": "denki",
+      "file": "denki-favor.webp",
+      "subject": "Denki Kaminari",
+      "era": "entrance-season",
+      "sha256": "3582bf9e8b6c5a9320cf3ab882fd66ee5cf57b5849b72d67295e7d1c441d6034"
+    },
+    {
+      "id": "aoyama",
+      "file": "aoyama-favor.webp",
+      "subject": "Yuga Aoyama",
+      "era": "entrance-season",
+      "sha256": "ebcbf79533d7b201d7fa50d9553444fd6c31061d4f0a4d1f59325c7c557ebff6"
+    },
+    {
+      "id": "jiro",
+      "file": "jiro-favor.webp",
+      "subject": "Kyoka Jiro",
+      "era": "entrance-season",
+      "sha256": "634dbc1739bb376c3a4a3014299f55ca1910f23118fc58728f94ae6ce5f222b0"
+    },
+    {
+      "id": "mina",
+      "file": "mina-favor.webp",
+      "subject": "Mina Ashido",
+      "era": "entrance-season",
+      "sha256": "7bda474b8446f3252e3ac9e8b5bfb69d47d2305b73f8340cbd5b2799433fa5e1"
+    },
+    {
+      "id": "shoji",
+      "file": "shoji-favor.webp",
+      "subject": "Mezo Shoji",
+      "era": "entrance-season",
+      "sha256": "fec7ca65a49cdcb433b8c194e358f014bc73baeaabaedc3e61b1b0cc9833da92"
+    },
+    {
+      "id": "ojiro",
+      "file": "ojiro-favor.webp",
+      "subject": "Mashirao Ojiro",
+      "era": "entrance-season",
+      "sha256": "c9ff194f7ea768773c6b84a8fdbf233dfaa80d19d85a96c3ab9a68067acd83cd"
+    },
+    {
+      "id": "sero",
+      "file": "sero-favor.webp",
+      "subject": "Hanta Sero",
+      "era": "entrance-season",
+      "sha256": "cfaf73f582c7005e9bdb4c806c26d6e619ff4dce43ef3dc56906d4a8f903546a"
+    },
+    {
+      "id": "toru",
+      "file": "toru-favor.webp",
+      "subject": "Toru Hagakure",
+      "era": "entrance-season",
+      "sha256": "782ff1dc87d3569c0f359f7725124795bffeaed745feaf05309e4792b6470422"
+    },
+    {
+      "id": "sato",
+      "file": "sato-favor.webp",
+      "subject": "Rikido Sato",
+      "era": "entrance-season",
+      "sha256": "92441b6b311d6b53a974d2afdd43fe6072cb7e49557ad9f72fd6e3257adf9ff0"
+    },
+    {
+      "id": "koda",
+      "file": "koda-favor.webp",
+      "subject": "Koji Koda",
+      "era": "entrance-season",
+      "sha256": "0439213ecbf38776c4aee9d35869eb62a3f1731c7eb2b803a1bf542a5c14c2ba"
+    },
+    {
+      "id": "kendo",
+      "file": "kendo-favor.webp",
+      "subject": "Itsuka Kendo",
+      "era": "sports-festival",
+      "sha256": "606af88206a8e4adc477a4365449c79121c88ee4a6ff99f5209112d5daa5a75f"
+    },
+    {
+      "id": "monoma",
+      "file": "monoma-favor.webp",
+      "subject": "Neito Monoma",
+      "era": "sports-festival",
+      "sha256": "72fd41a33fce76821ef137ae02c2207a167ee3d3d3e7158c425b8e3f24771b2c"
+    },
+    {
+      "id": "tetsutetsu",
+      "file": "tetsutetsu-favor.webp",
+      "subject": "Tetsutetsu Tetsutetsu",
+      "era": "sports-festival",
+      "sha256": "1b268228149b86b0032fccb9899f577736ee5a8b2f0eb0094096f0972a786b14"
+    },
+    {
+      "id": "shinso",
+      "file": "shinso-favor.webp",
+      "subject": "Hitoshi Shinso",
+      "era": "sports-festival",
+      "sha256": "6611c3c36a896e6fbbe9ec53928323efaaa6d134ebcf7005ff0c1b9bda3d6fe5"
+    },
+    {
+      "id": "aizawa",
+      "file": "aizawa-favor.webp",
+      "subject": "Shota Aizawa",
+      "era": "entrance-season",
+      "sha256": "31c33851cdb86000efbaca1c9d74a3fc06b885b88540e9c68190946cacb18700"
+    },
+    {
+      "id": "all-might",
+      "file": "all-might-favor.webp",
+      "subject": "All Might",
+      "era": "entrance-season",
+      "sha256": "fbf386a1d923056dea60880a29c9192e5b7016f42be6110254efb5bed862c73d"
+    },
+    {
+      "id": "nezu",
+      "file": "nezu-favor.webp",
+      "subject": "Nezu",
+      "era": "entrance-season",
+      "sha256": "4e3b23d4dfc6c5848d7267088bb6485892d17cc4a1697c5c66cde9d0d38d2315"
+    },
+    {
+      "id": "present-mic",
+      "file": "present-mic-favor.webp",
+      "subject": "Hizashi Yamada",
+      "era": "entrance-season",
+      "sha256": "4c1827147e3caf3ddf33001d919b5ea414d8a2f8917b8a41a60b445bacd4d4f2"
+    },
+    {
+      "id": "recovery-girl",
+      "file": "recovery-girl-favor.webp",
+      "subject": "Chiyo Shuzenji",
+      "era": "entrance-season",
+      "sha256": "cb29807612eda56dd7068ab24c6ac1a7a309685640297660e7a58247d0255d24"
+    },
+    {
+      "id": "mirio",
+      "file": "mirio-favor.webp",
+      "subject": "Mirio Togata",
+      "era": "license-hassaikai",
+      "sha256": "db22802cadb4c666da13604f2f23bd983365623a2d79e804663a78ad22587087"
+    },
+    {
+      "id": "nejire",
+      "file": "nejire-favor.webp",
+      "subject": "Nejire Hado",
+      "era": "license-hassaikai",
+      "sha256": "a23195332152d459661231f7e9478de0cc9ba271c909693bc8ff009a8fe97422"
+    },
+    {
+      "id": "tamaki",
+      "file": "tamaki-favor.webp",
+      "subject": "Tamaki Amajiki",
+      "era": "license-hassaikai",
+      "sha256": "d2d6e2b5d48a6cd533e247a0d586b0656619053681b0af73954d45fa0ef5b84b"
+    },
+    {
+      "id": "eri",
+      "file": "eri-favor.webp",
+      "subject": "Eri",
+      "era": "license-hassaikai",
+      "sha256": "792de4c9e4e434cf0cbbea8b5dc7ac7f018f5218be4d936883ecb0c18a4df910"
+    },
+    {
+      "id": "endeavor",
+      "file": "endeavor-favor.webp",
+      "subject": "Enji Todoroki",
+      "era": "internships-hosu",
+      "sha256": "3024f284830edd806c524ce5b8a2bab91b1517e2378d179840aa9fc5a4166f4c"
+    },
+    {
+      "id": "hawks",
+      "file": "hawks-favor.webp",
+      "subject": "Keigo Takami",
+      "era": "school-festival-pro-hero",
+      "sha256": "5ba9711e5c8e3d83f3c4396f3703a3f56f00de352887be7fe68d5961b6cedb1c"
+    },
+    {
+      "id": "best-jeanist",
+      "file": "best-jeanist-favor.webp",
+      "subject": "Tsunagu Hakamada",
+      "era": "kamino-fallout",
+      "sha256": "ab2396c58bc5474552ae861ca0ea6697207040c3727d819bc9ffd7bea5138aa2"
+    },
+    {
+      "id": "mirko",
+      "file": "mirko-favor.webp",
+      "subject": "Rumi Usagiyama",
+      "era": "school-festival-pro-hero",
+      "sha256": "d16c6984402d70ae39721a65755123342ec7db83f8b3d5f049738f760a6ce998"
+    },
+    {
+      "id": "fat-gum",
+      "file": "fat-gum-favor.webp",
+      "subject": "Taishiro Toyomitsu",
+      "era": "internships-hosu",
+      "sha256": "4d632ad2612a99f5735ceccf307dd275f350787502ca5894656da513249f9a8f"
+    },
+    {
+      "id": "nighteye",
+      "file": "nighteye-favor.webp",
+      "subject": "Mirai Sasaki",
+      "era": "license-hassaikai",
+      "sha256": "f51fa4038075ad0fe85ce1c0c37897a0153672a442ea6908320b1d3ea421a857"
+    },
+    {
+      "id": "gran-torino",
+      "file": "gran-torino-favor.webp",
+      "subject": "Sorahiko Torino",
+      "era": "internships-hosu",
+      "sha256": "9fe7cdda31695854c6cef614428a00d1bab11eba7f86bbf53396a197dbc58811"
+    },
+    {
+      "id": "shigaraki",
+      "file": "shigaraki-favor.webp",
+      "subject": "Tomura Shigaraki",
+      "era": "spring-usj",
+      "sha256": "73b72ae10af4625b8a68be0b50ebad9f2a5142a5ab9af1ba7d17e8a8b2911380"
+    },
+    {
+      "id": "all-for-one",
+      "file": "all-for-one-favor.webp",
+      "subject": "All For One",
+      "era": "kamino-fallout",
+      "sha256": "75599db8bb54a5bd49940b45f4156bb44c08b3831b88adb32894cf68610577cd"
+    },
+    {
+      "id": "dabi",
+      "file": "dabi-favor.webp",
+      "subject": "Dabi",
+      "era": "finals-training-camp",
+      "sha256": "ac9f25df871e7c6cb7d5731199788ec42bc32685418014a083830449a19acf2f"
+    },
+    {
+      "id": "toga",
+      "file": "toga-favor.webp",
+      "subject": "Himiko Toga",
+      "era": "finals-training-camp",
+      "sha256": "fef8ed0e82adf52b484b9514f0bb4505be36c1d8b28dcb2bcd0e7d08c0669434"
+    },
+    {
+      "id": "twice",
+      "file": "twice-favor.webp",
+      "subject": "Jin Bubaigawara",
+      "era": "finals-training-camp",
+      "sha256": "9ff8cc9426fe728c9b41ed3de090fc323c0f1bbd53cb884babf76fa22f816ac2"
+    },
+    {
+      "id": "spinner",
+      "file": "spinner-favor.webp",
+      "subject": "Shuichi Iguchi",
+      "era": "finals-training-camp",
+      "sha256": "22c6b660296c96541a771eb1a46d62f5807d9288ca0cf5823b94cc27a85be5bb"
+    },
+    {
+      "id": "compress",
+      "file": "compress-favor.webp",
+      "subject": "Atsuhiro Sako",
+      "era": "finals-training-camp",
+      "sha256": "c1116e18e737619c50828f0b527ff5f7d1e9eaac69924e1359eddaa5ae160c0a"
+    },
+    {
+      "id": "stain",
+      "file": "stain-favor.webp",
+      "subject": "Chizome Akaguro",
+      "era": "internships-hosu",
+      "sha256": "41678d6338d93b191409db4a395261018ee3e0dc98afec5a4a15b9c70a808cac"
+    },
+    {
+      "id": "overhaul",
+      "file": "overhaul-favor.webp",
+      "subject": "Kai Chisaki",
+      "era": "license-hassaikai",
+      "sha256": "b5dffa0315903ad5423027d12a9fe32f9a8f414d241b077c730b2ae5095c27e9"
+    },
+    {
+      "id": "re-destro",
+      "file": "re-destro-favor.webp",
+      "subject": "Re-Destro",
+      "era": "liberation-buildup",
+      "sha256": "2f8d1ccc2744976a6f333c8ada107f461d396b2bc701a9f506ce906eea530bc3"
+    }
+  ]
+}
