@@ -12,7 +12,7 @@
     ],
     "direction": "Hero Society Evidence"
   },
-  "count": 50,
+  "count": 52,
   "items": [
     {
       "id": "izuku",
@@ -183,6 +183,13 @@
       "sha256": "6611c3c36a896e6fbbe9ec53928323efaaa6d134ebcf7005ff0c1b9bda3d6fe5"
     },
     {
+      "id": "mei",
+      "file": "mei-favor.webp",
+      "subject": "Mei Hatsume",
+      "era": "sports-festival",
+      "sha256": "ca8a558bdf378ed589e86eb17c666941446bce907d6135f95b201d221d8b4240"
+    },
+    {
       "id": "aizawa",
       "file": "aizawa-favor.webp",
       "subject": "Shota Aizawa",
@@ -209,6 +216,13 @@
       "subject": "Hizashi Yamada",
       "era": "entrance-season",
       "sha256": "4c1827147e3caf3ddf33001d919b5ea414d8a2f8917b8a41a60b445bacd4d4f2"
+    },
+    {
+      "id": "midnight",
+      "file": "midnight-favor.webp",
+      "subject": "Midnight",
+      "era": "entrance-season",
+      "sha256": "35c5fa06214121f5b4fb0fc19a7809358554b0723d969d226227ef2d2383b6ea"
     },
     {
       "id": "recovery-girl",

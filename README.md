@@ -48,10 +48,12 @@ GitHub raw-CDN caching may delay a replacement image for several minutes.
 | `monoma-favor.webp` | Neito Monoma | Class 1-B | `sports-festival` |
 | `tetsutetsu-favor.webp` | Tetsutetsu Tetsutetsu | Class 1-B | `sports-festival` |
 | `shinso-favor.webp` | Hitoshi Shinso | General Studies | `sports-festival` |
+| `mei-favor.webp` | Mei Hatsume | Support Course | `sports-festival` |
 | `aizawa-favor.webp` | Shota Aizawa | U.A. Faculty | `entrance-season` |
 | `all-might-favor.webp` | All Might | U.A. Faculty | `entrance-season` |
 | `nezu-favor.webp` | Nezu | U.A. Faculty | `entrance-season` |
 | `present-mic-favor.webp` | Hizashi Yamada | U.A. Faculty | `entrance-season` |
+| `midnight-favor.webp` | Midnight | U.A. Faculty | `entrance-season` |
 | `recovery-girl-favor.webp` | Chiyo Shuzenji | U.A. Faculty | `entrance-season` |
 | `mirio-favor.webp` | Mirio Togata | U.A. Big Three | `license-hassaikai` |
 | `nejire-favor.webp` | Nejire Hado | U.A. Big Three | `license-hassaikai` |
