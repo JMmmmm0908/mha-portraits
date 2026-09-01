@@ -62,7 +62,7 @@ GitHub raw-CDN caching may delay a replacement image for several minutes.
 | `endeavor-favor.webp` | Enji Todoroki | Endeavor Agency | `internships-hosu` |
 | `hawks-favor.webp` | Keigo Takami | Hero Public Safety Commission | `school-festival-pro-hero` |
 | `best-jeanist-favor.webp` | Tsunagu Hakamada | Pro Heroes | `kamino-fallout` |
-| `mirko-favor.webp` | Rumi Usagiyama | Pro Heroes | `school-festival-pro-hero` |
+| `mirko-favor.webp` | Rumi Usagiyama | Pro Heroes | `internships-hosu` |
 | `fat-gum-favor.webp` | Taishiro Toyomitsu | Fat Gum Agency | `internships-hosu` |
 | `nighteye-favor.webp` | Mirai Sasaki | Nighteye Agency | `license-hassaikai` |
 | `gran-torino-favor.webp` | Sorahiko Torino | Independent Pro Hero | `internships-hosu` |
