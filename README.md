@@ -22,57 +22,78 @@ GitHub raw-CDN caching may delay a replacement image for several minutes.
 
 ## Portrait index
 
-| File | Subject | Group | Earliest era |
-|---|---|---|---|
-| `izuku-favor.webp` | Izuku Midoriya | Class 1-A | `entrance-season` |
-| `bakugo-favor.webp` | Katsuki Bakugo | Class 1-A | `entrance-season` |
-| `ochaco-favor.webp` | Ochaco Uraraka | Class 1-A | `entrance-season` |
-| `iida-favor.webp` | Tenya Iida | Class 1-A | `entrance-season` |
-| `shoto-favor.webp` | Shoto Todoroki | Class 1-A | `entrance-season` |
-| `tsuyu-favor.webp` | Tsuyu Asui | Class 1-A | `entrance-season` |
-| `mineta-favor.webp` | Minoru Mineta | Class 1-A | `entrance-season` |
-| `kirishima-favor.webp` | Eijiro Kirishima | Class 1-A | `entrance-season` |
-| `momo-favor.webp` | Momo Yaoyorozu | Class 1-A | `entrance-season` |
-| `tokoyami-favor.webp` | Fumikage Tokoyami | Class 1-A | `entrance-season` |
-| `denki-favor.webp` | Denki Kaminari | Class 1-A | `entrance-season` |
-| `aoyama-favor.webp` | Yuga Aoyama | Class 1-A | `entrance-season` |
-| `jiro-favor.webp` | Kyoka Jiro | Class 1-A | `entrance-season` |
-| `mina-favor.webp` | Mina Ashido | Class 1-A | `entrance-season` |
-| `shoji-favor.webp` | Mezo Shoji | Class 1-A | `entrance-season` |
-| `ojiro-favor.webp` | Mashirao Ojiro | Class 1-A | `entrance-season` |
-| `sero-favor.webp` | Hanta Sero | Class 1-A | `entrance-season` |
-| `toru-favor.webp` | Toru Hagakure | Class 1-A | `entrance-season` |
-| `sato-favor.webp` | Rikido Sato | Class 1-A | `entrance-season` |
-| `koda-favor.webp` | Koji Koda | Class 1-A | `entrance-season` |
-| `kendo-favor.webp` | Itsuka Kendo | Class 1-B | `sports-festival` |
-| `monoma-favor.webp` | Neito Monoma | Class 1-B | `sports-festival` |
-| `tetsutetsu-favor.webp` | Tetsutetsu Tetsutetsu | Class 1-B | `sports-festival` |
-| `shinso-favor.webp` | Hitoshi Shinso | General Studies | `sports-festival` |
-| `mei-favor.webp` | Mei Hatsume | Support Course | `sports-festival` |
-| `aizawa-favor.webp` | Shota Aizawa | U.A. Faculty | `entrance-season` |
-| `all-might-favor.webp` | All Might | U.A. Faculty | `entrance-season` |
-| `nezu-favor.webp` | Nezu | U.A. Faculty | `entrance-season` |
-| `present-mic-favor.webp` | Hizashi Yamada | U.A. Faculty | `entrance-season` |
-| `midnight-favor.webp` | Midnight | U.A. Faculty | `entrance-season` |
-| `recovery-girl-favor.webp` | Chiyo Shuzenji | U.A. Faculty | `entrance-season` |
-| `mirio-favor.webp` | Mirio Togata | U.A. Big Three | `license-hassaikai` |
-| `nejire-favor.webp` | Nejire Hado | U.A. Big Three | `license-hassaikai` |
-| `tamaki-favor.webp` | Tamaki Amajiki | U.A. Big Three | `license-hassaikai` |
-| `eri-favor.webp` | Eri | Shie Hassaikai | `license-hassaikai` |
-| `endeavor-favor.webp` | Enji Todoroki | Endeavor Agency | `internships-hosu` |
-| `hawks-favor.webp` | Keigo Takami | Hero Public Safety Commission | `school-festival-pro-hero` |
-| `best-jeanist-favor.webp` | Tsunagu Hakamada | Pro Heroes | `kamino-fallout` |
-| `mirko-favor.webp` | Rumi Usagiyama | Pro Heroes | `internships-hosu` |
-| `fat-gum-favor.webp` | Taishiro Toyomitsu | Fat Gum Agency | `internships-hosu` |
-| `nighteye-favor.webp` | Mirai Sasaki | Nighteye Agency | `license-hassaikai` |
-| `gran-torino-favor.webp` | Sorahiko Torino | Independent Pro Hero | `internships-hosu` |
-| `shigaraki-favor.webp` | Tomura Shigaraki | League of Villains | `spring-usj` |
-| `all-for-one-favor.webp` | All For One | All For One Network | `kamino-fallout` |
-| `dabi-favor.webp` | Dabi | League of Villains | `finals-training-camp` |
-| `toga-favor.webp` | Himiko Toga | League of Villains | `finals-training-camp` |
-| `twice-favor.webp` | Jin Bubaigawara | League of Villains | `finals-training-camp` |
-| `spinner-favor.webp` | Shuichi Iguchi | League of Villains | `finals-training-camp` |
-| `compress-favor.webp` | Atsuhiro Sako | League of Villains | `finals-training-camp` |
-| `stain-favor.webp` | Chizome Akaguro | Independent Villain | `internships-hosu` |
-| `overhaul-favor.webp` | Kai Chisaki | Shie Hassaikai | `license-hassaikai` |
-| `re-destro-favor.webp` | Re-Destro | Meta Liberation Army | `liberation-buildup` |
+Every roster key appears here. `live` means the file is in this repo and the raw URI resolves; `pending` means the
+roster key exists and the consuming application is currently falling back to that character glyph.
+
+**52 live · 16 pending · 68 total**
+
+| File | Subject | Group | Earliest era | Status |
+|---|---|---|---|---|
+| `izuku-favor.webp` | Izuku Midoriya | Class 1-A | `entrance-season` | live |
+| `bakugo-favor.webp` | Katsuki Bakugo | Class 1-A | `entrance-season` | live |
+| `ochaco-favor.webp` | Ochaco Uraraka | Class 1-A | `entrance-season` | live |
+| `iida-favor.webp` | Tenya Iida | Class 1-A | `entrance-season` | live |
+| `shoto-favor.webp` | Shoto Todoroki | Class 1-A | `entrance-season` | live |
+| `tsuyu-favor.webp` | Tsuyu Asui | Class 1-A | `entrance-season` | live |
+| `mineta-favor.webp` | Minoru Mineta | Class 1-A | `entrance-season` | live |
+| `kirishima-favor.webp` | Eijiro Kirishima | Class 1-A | `entrance-season` | live |
+| `momo-favor.webp` | Momo Yaoyorozu | Class 1-A | `entrance-season` | live |
+| `tokoyami-favor.webp` | Fumikage Tokoyami | Class 1-A | `entrance-season` | live |
+| `denki-favor.webp` | Denki Kaminari | Class 1-A | `entrance-season` | live |
+| `aoyama-favor.webp` | Yuga Aoyama | Class 1-A | `entrance-season` | live |
+| `jiro-favor.webp` | Kyoka Jiro | Class 1-A | `entrance-season` | live |
+| `mina-favor.webp` | Mina Ashido | Class 1-A | `entrance-season` | live |
+| `shoji-favor.webp` | Mezo Shoji | Class 1-A | `entrance-season` | live |
+| `ojiro-favor.webp` | Mashirao Ojiro | Class 1-A | `entrance-season` | live |
+| `sero-favor.webp` | Hanta Sero | Class 1-A | `entrance-season` | live |
+| `toru-favor.webp` | Toru Hagakure | Class 1-A | `entrance-season` | live |
+| `sato-favor.webp` | Rikido Sato | Class 1-A | `entrance-season` | live |
+| `koda-favor.webp` | Koji Koda | Class 1-A | `entrance-season` | live |
+| `kendo-favor.webp` | Itsuka Kendo | Class 1-B | `sports-festival` | live |
+| `monoma-favor.webp` | Neito Monoma | Class 1-B | `sports-festival` | live |
+| `tetsutetsu-favor.webp` | Tetsutetsu Tetsutetsu | Class 1-B | `sports-festival` | live |
+| `shinso-favor.webp` | Hitoshi Shinso | General Studies | `sports-festival` | live |
+| `mei-favor.webp` | Mei Hatsume | Support Course | `sports-festival` | live |
+| `ibara-favor.webp` | Ibara Shiozaki | Class 1-B | `sports-festival` | pending |
+| `aizawa-favor.webp` | Shota Aizawa | U.A. Faculty | `entrance-season` | live |
+| `all-might-favor.webp` | All Might | U.A. Faculty | `entrance-season` | live |
+| `nezu-favor.webp` | Nezu | U.A. Faculty | `entrance-season` | live |
+| `present-mic-favor.webp` | Hizashi Yamada | U.A. Faculty | `entrance-season` | live |
+| `midnight-favor.webp` | Midnight | U.A. Faculty | `entrance-season` | live |
+| `recovery-girl-favor.webp` | Chiyo Shuzenji | U.A. Faculty | `entrance-season` | live |
+| `cementoss-favor.webp` | Cementoss | U.A. Faculty | `entrance-season` | pending |
+| `mirio-favor.webp` | Mirio Togata | U.A. Big Three | `license-hassaikai` | live |
+| `nejire-favor.webp` | Nejire Hado | U.A. Big Three | `license-hassaikai` | live |
+| `tamaki-favor.webp` | Tamaki Amajiki | U.A. Big Three | `license-hassaikai` | live |
+| `eri-favor.webp` | Eri | Shie Hassaikai | `license-hassaikai` | live |
+| `endeavor-favor.webp` | Enji Todoroki | Endeavor Agency | `internships-hosu` | live |
+| `hawks-favor.webp` | Keigo Takami | Hero Public Safety Commission | `school-festival-pro-hero` | live |
+| `best-jeanist-favor.webp` | Tsunagu Hakamada | Pro Heroes | `kamino-fallout` | live |
+| `mirko-favor.webp` | Rumi Usagiyama | Pro Heroes | `internships-hosu` | live |
+| `fat-gum-favor.webp` | Taishiro Toyomitsu | Fat Gum Agency | `internships-hosu` | live |
+| `nighteye-favor.webp` | Mirai Sasaki | Nighteye Agency | `license-hassaikai` | live |
+| `gran-torino-favor.webp` | Sorahiko Torino | Independent Pro Hero | `internships-hosu` | live |
+| `mt-lady-favor.webp` | Mt. Lady | Pro Heroes | `entrance-season` | pending |
+| `uwabami-favor.webp` | Uwabami | Uwabami Agency | `internships-hosu` | pending |
+| `kamui-woods-favor.webp` | Kamui Woods | Pro Heroes | `entrance-season` | pending |
+| `ryukyu-favor.webp` | Ryukyu | Ryukyu Agency | `license-hassaikai` | pending |
+| `shigaraki-favor.webp` | Tomura Shigaraki | League of Villains | `spring-usj` | live |
+| `all-for-one-favor.webp` | All For One | All For One Network | `kamino-fallout` | live |
+| `dabi-favor.webp` | Dabi | League of Villains | `finals-training-camp` | live |
+| `toga-favor.webp` | Himiko Toga | League of Villains | `finals-training-camp` | live |
+| `twice-favor.webp` | Jin Bubaigawara | League of Villains | `finals-training-camp` | live |
+| `spinner-favor.webp` | Shuichi Iguchi | League of Villains | `finals-training-camp` | live |
+| `compress-favor.webp` | Atsuhiro Sako | League of Villains | `finals-training-camp` | live |
+| `stain-favor.webp` | Chizome Akaguro | Independent Villain | `internships-hosu` | live |
+| `overhaul-favor.webp` | Kai Chisaki | Shie Hassaikai | `license-hassaikai` | live |
+| `re-destro-favor.webp` | Re-Destro | Meta Liberation Army | `liberation-buildup` | live |
+| `lady-nagant-favor.webp` | Lady Nagant | Former HPSC Pro Hero | `dark-hero-evacuation` | pending |
+| `tsukauchi-favor.webp` | Naomasa Tsukauchi | Police Force | `spring-usj` | pending |
+| `awase-favor.webp` | Yosetsu Awase | Class 1-B | `sports-festival` | pending |
+| `tiger-favor.webp` | Tiger | Wild Wild Pussycats | `finals-training-camp` | pending |
+| `kota-favor.webp` | Kota Izumi | Civilian | `finals-training-camp` | pending |
+| `mera-favor.webp` | Yokumiru Mera | Hero Public Safety Commission | `license-hassaikai` | pending |
+| `inasa-favor.webp` | Inasa Yoarashi | Shiketsu High | `license-hassaikai` | pending |
+| `camie-favor.webp` | Camie Utsushimi | Shiketsu High | `license-hassaikai` | pending |
+| `gang-orca-favor.webp` | Gang Orca | Pro Heroes | `license-hassaikai` | pending |
+| `shindo-favor.webp` | Yo Shindo | Ketsubutsu Academy | `license-hassaikai` | pending |

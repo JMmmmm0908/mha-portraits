@@ -13,6 +13,7 @@
     "direction": "Hero Society Evidence"
   },
   "count": 52,
+  "expected": 68,
   "items": [
     {
       "id": "izuku",
@@ -190,6 +191,13 @@
       "sha256": "89b12f48b9c843b3f940896eed7f94bc62f261d23a77176ffe1c6e130914ebf5"
     },
     {
+      "id": "ibara",
+      "file": "ibara-favor.webp",
+      "subject": "Ibara Shiozaki",
+      "era": "sports-festival",
+      "pending": true
+    },
+    {
       "id": "aizawa",
       "file": "aizawa-favor.webp",
       "subject": "Shota Aizawa",
@@ -230,6 +238,13 @@
       "subject": "Chiyo Shuzenji",
       "era": "entrance-season",
       "sha256": "cb29807612eda56dd7068ab24c6ac1a7a309685640297660e7a58247d0255d24"
+    },
+    {
+      "id": "cementoss",
+      "file": "cementoss-favor.webp",
+      "subject": "Cementoss",
+      "era": "entrance-season",
+      "pending": true
     },
     {
       "id": "mirio",
@@ -309,6 +324,34 @@
       "sha256": "9fe7cdda31695854c6cef614428a00d1bab11eba7f86bbf53396a197dbc58811"
     },
     {
+      "id": "mt-lady",
+      "file": "mt-lady-favor.webp",
+      "subject": "Mt. Lady",
+      "era": "entrance-season",
+      "pending": true
+    },
+    {
+      "id": "uwabami",
+      "file": "uwabami-favor.webp",
+      "subject": "Uwabami",
+      "era": "internships-hosu",
+      "pending": true
+    },
+    {
+      "id": "kamui-woods",
+      "file": "kamui-woods-favor.webp",
+      "subject": "Kamui Woods",
+      "era": "entrance-season",
+      "pending": true
+    },
+    {
+      "id": "ryukyu",
+      "file": "ryukyu-favor.webp",
+      "subject": "Ryukyu",
+      "era": "license-hassaikai",
+      "pending": true
+    },
+    {
       "id": "shigaraki",
       "file": "shigaraki-favor.webp",
       "subject": "Tomura Shigaraki",
@@ -377,6 +420,76 @@
       "subject": "Re-Destro",
       "era": "liberation-buildup",
       "sha256": "2f8d1ccc2744976a6f333c8ada107f461d396b2bc701a9f506ce906eea530bc3"
+    },
+    {
+      "id": "lady-nagant",
+      "file": "lady-nagant-favor.webp",
+      "subject": "Lady Nagant",
+      "era": "dark-hero-evacuation",
+      "pending": true
+    },
+    {
+      "id": "tsukauchi",
+      "file": "tsukauchi-favor.webp",
+      "subject": "Naomasa Tsukauchi",
+      "era": "spring-usj",
+      "pending": true
+    },
+    {
+      "id": "awase",
+      "file": "awase-favor.webp",
+      "subject": "Yosetsu Awase",
+      "era": "sports-festival",
+      "pending": true
+    },
+    {
+      "id": "tiger",
+      "file": "tiger-favor.webp",
+      "subject": "Tiger",
+      "era": "finals-training-camp",
+      "pending": true
+    },
+    {
+      "id": "kota",
+      "file": "kota-favor.webp",
+      "subject": "Kota Izumi",
+      "era": "finals-training-camp",
+      "pending": true
+    },
+    {
+      "id": "mera",
+      "file": "mera-favor.webp",
+      "subject": "Yokumiru Mera",
+      "era": "license-hassaikai",
+      "pending": true
+    },
+    {
+      "id": "inasa",
+      "file": "inasa-favor.webp",
+      "subject": "Inasa Yoarashi",
+      "era": "license-hassaikai",
+      "pending": true
+    },
+    {
+      "id": "camie",
+      "file": "camie-favor.webp",
+      "subject": "Camie Utsushimi",
+      "era": "license-hassaikai",
+      "pending": true
+    },
+    {
+      "id": "gang-orca",
+      "file": "gang-orca-favor.webp",
+      "subject": "Gang Orca",
+      "era": "license-hassaikai",
+      "pending": true
+    },
+    {
+      "id": "shindo",
+      "file": "shindo-favor.webp",
+      "subject": "Yo Shindo",
+      "era": "license-hassaikai",
+      "pending": true
     }
   ]
 }
