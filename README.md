@@ -25,7 +25,7 @@ GitHub raw-CDN caching may delay a replacement image for several minutes.
 Every roster key appears here. `live` means the file is in this repo and the raw URI resolves; `pending` means the
 roster key exists and the consuming application is currently falling back to that character glyph.
 
-**52 live · 16 pending · 68 total**
+**59 live · 9 pending · 68 total**
 
 | File | Subject | Group | Earliest era | Status |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ roster key exists and the consuming application is currently falling back to tha
 | `tetsutetsu-favor.webp` | Tetsutetsu Tetsutetsu | Class 1-B | `sports-festival` | live |
 | `shinso-favor.webp` | Hitoshi Shinso | General Studies | `sports-festival` | live |
 | `mei-favor.webp` | Mei Hatsume | Support Course | `sports-festival` | live |
-| `ibara-favor.webp` | Ibara Shiozaki | Class 1-B | `sports-festival` | pending |
+| `ibara-favor.webp` | Ibara Shiozaki | Class 1-B | `sports-festival` | live |
 | `aizawa-favor.webp` | Shota Aizawa | U.A. Faculty | `entrance-season` | live |
 | `all-might-favor.webp` | All Might | U.A. Faculty | `entrance-season` | live |
 | `nezu-favor.webp` | Nezu | U.A. Faculty | `entrance-season` | live |
 | `present-mic-favor.webp` | Hizashi Yamada | U.A. Faculty | `entrance-season` | live |
 | `midnight-favor.webp` | Midnight | U.A. Faculty | `entrance-season` | live |
 | `recovery-girl-favor.webp` | Chiyo Shuzenji | U.A. Faculty | `entrance-season` | live |
-| `cementoss-favor.webp` | Cementoss | U.A. Faculty | `entrance-season` | pending |
+| `cementoss-favor.webp` | Cementoss | U.A. Faculty | `entrance-season` | live |
 | `mirio-favor.webp` | Mirio Togata | U.A. Big Three | `license-hassaikai` | live |
 | `nejire-favor.webp` | Nejire Hado | U.A. Big Three | `license-hassaikai` | live |
 | `tamaki-favor.webp` | Tamaki Amajiki | U.A. Big Three | `license-hassaikai` | live |
@@ -73,10 +73,10 @@ roster key exists and the consuming application is currently falling back to tha
 | `fat-gum-favor.webp` | Taishiro Toyomitsu | Fat Gum Agency | `internships-hosu` | live |
 | `nighteye-favor.webp` | Mirai Sasaki | Nighteye Agency | `license-hassaikai` | live |
 | `gran-torino-favor.webp` | Sorahiko Torino | Independent Pro Hero | `internships-hosu` | live |
-| `mt-lady-favor.webp` | Mt. Lady | Pro Heroes | `entrance-season` | pending |
-| `uwabami-favor.webp` | Uwabami | Uwabami Agency | `internships-hosu` | pending |
-| `kamui-woods-favor.webp` | Kamui Woods | Pro Heroes | `entrance-season` | pending |
-| `ryukyu-favor.webp` | Ryukyu | Ryukyu Agency | `license-hassaikai` | pending |
+| `mt-lady-favor.webp` | Mt. Lady | Pro Heroes | `entrance-season` | live |
+| `uwabami-favor.webp` | Uwabami | Uwabami Agency | `internships-hosu` | live |
+| `kamui-woods-favor.webp` | Kamui Woods | Pro Heroes | `entrance-season` | live |
+| `ryukyu-favor.webp` | Ryukyu | Ryukyu Agency | `license-hassaikai` | live |
 | `shigaraki-favor.webp` | Tomura Shigaraki | League of Villains | `spring-usj` | live |
 | `all-for-one-favor.webp` | All For One | All For One Network | `kamino-fallout` | live |
 | `dabi-favor.webp` | Dabi | League of Villains | `finals-training-camp` | live |
@@ -87,7 +87,7 @@ roster key exists and the consuming application is currently falling back to tha
 | `stain-favor.webp` | Chizome Akaguro | Independent Villain | `internships-hosu` | live |
 | `overhaul-favor.webp` | Kai Chisaki | Shie Hassaikai | `license-hassaikai` | live |
 | `re-destro-favor.webp` | Re-Destro | Meta Liberation Army | `liberation-buildup` | live |
-| `lady-nagant-favor.webp` | Lady Nagant | Former HPSC Pro Hero | `dark-hero-evacuation` | pending |
+| `lady-nagant-favor.webp` | Lady Nagant | Former HPSC Pro Hero | `dark-hero-evacuation` | live |
 | `tsukauchi-favor.webp` | Naomasa Tsukauchi | Police Force | `spring-usj` | pending |
 | `awase-favor.webp` | Yosetsu Awase | Class 1-B | `sports-festival` | pending |
 | `tiger-favor.webp` | Tiger | Wild Wild Pussycats | `finals-training-camp` | pending |

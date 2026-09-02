@@ -12,7 +12,7 @@
     ],
     "direction": "Hero Society Evidence"
   },
-  "count": 52,
+  "count": 59,
   "expected": 68,
   "items": [
     {
@@ -195,7 +195,7 @@
       "file": "ibara-favor.webp",
       "subject": "Ibara Shiozaki",
       "era": "sports-festival",
-      "pending": true
+      "sha256": "632c71445484a3b6c19b85e954ae335d54fac4357e957ceed9b4c3cac748f6f2"
     },
     {
       "id": "aizawa",
@@ -244,7 +244,7 @@
       "file": "cementoss-favor.webp",
       "subject": "Cementoss",
       "era": "entrance-season",
-      "pending": true
+      "sha256": "2b07ed199cacca10619520083283a3cc872f039152817ec1b176140f67a0ef73"
     },
     {
       "id": "mirio",
@@ -328,28 +328,28 @@
       "file": "mt-lady-favor.webp",
       "subject": "Mt. Lady",
       "era": "entrance-season",
-      "pending": true
+      "sha256": "d500936838525b7dbbe049a18e16217b13a44df05049d50a7ead5f9d6aae0d25"
     },
     {
       "id": "uwabami",
       "file": "uwabami-favor.webp",
       "subject": "Uwabami",
       "era": "internships-hosu",
-      "pending": true
+      "sha256": "8f044f0cabae0296b9fa716358e82cc98ff3b0f601786e0cf951f6fbbb3d374e"
     },
     {
       "id": "kamui-woods",
       "file": "kamui-woods-favor.webp",
       "subject": "Kamui Woods",
       "era": "entrance-season",
-      "pending": true
+      "sha256": "34afe98f772ed3e2a459dd6271fad78b7d7dd8d96bdde5c352939e5348b921db"
     },
     {
       "id": "ryukyu",
       "file": "ryukyu-favor.webp",
       "subject": "Ryukyu",
       "era": "license-hassaikai",
-      "pending": true
+      "sha256": "57a907f06a489a55551a433c122fe6aa99db4dd44328f7a71c3b99e1e50e8bc1"
     },
     {
       "id": "shigaraki",
@@ -426,7 +426,7 @@
       "file": "lady-nagant-favor.webp",
       "subject": "Lady Nagant",
       "era": "dark-hero-evacuation",
-      "pending": true
+      "sha256": "589e507a599787f946bdee314fbc90d100df9e949b8667ff6f02653262a18050"
     },
     {
       "id": "tsukauchi",
