@@ -25,7 +25,7 @@ GitHub raw-CDN caching may delay a replacement image for several minutes.
 Every roster key appears here. `live` means the file is in this repo and the raw URI resolves; `pending` means the
 roster key exists and the consuming application is currently falling back to that character glyph.
 
-**59 live · 9 pending · 68 total**
+**68 live · 0 pending · 68 total**
 
 | File | Subject | Group | Earliest era | Status |
 |---|---|---|---|---|
@@ -88,12 +88,18 @@ roster key exists and the consuming application is currently falling back to tha
 | `overhaul-favor.webp` | Kai Chisaki | Shie Hassaikai | `license-hassaikai` | live |
 | `re-destro-favor.webp` | Re-Destro | Meta Liberation Army | `liberation-buildup` | live |
 | `lady-nagant-favor.webp` | Lady Nagant | Former HPSC Pro Hero | `dark-hero-evacuation` | live |
-| `tsukauchi-favor.webp` | Naomasa Tsukauchi | Police Force | `spring-usj` | pending |
-| `awase-favor.webp` | Yosetsu Awase | Class 1-B | `sports-festival` | pending |
-| `tiger-favor.webp` | Tiger | Wild Wild Pussycats | `finals-training-camp` | pending |
-| `kota-favor.webp` | Kota Izumi | Civilian | `finals-training-camp` | pending |
-| `mera-favor.webp` | Yokumiru Mera | Hero Public Safety Commission | `license-hassaikai` | pending |
-| `inasa-favor.webp` | Inasa Yoarashi | Shiketsu High | `license-hassaikai` | pending |
-| `camie-favor.webp` | Camie Utsushimi | Shiketsu High | `license-hassaikai` | pending |
-| `gang-orca-favor.webp` | Gang Orca | Pro Heroes | `license-hassaikai` | pending |
-| `shindo-favor.webp` | Yo Shindo | Ketsubutsu Academy | `license-hassaikai` | pending |
+| `tsukauchi-favor.webp` | Naomasa Tsukauchi | Police Force | `spring-usj` | live |
+| `awase-favor.webp` | Yosetsu Awase | Class 1-B | `sports-festival` | live |
+| `tiger-favor.webp` | Tiger | Wild Wild Pussycats | `finals-training-camp` | live |
+| `kota-favor.webp` | Kota Izumi | Civilian | `finals-training-camp` | live |
+| `mera-favor.webp` | Yokumiru Mera | Hero Public Safety Commission | `license-hassaikai` | live |
+| `inasa-favor.webp` | Inasa Yoarashi | Shiketsu High | `license-hassaikai` | live |
+| `camie-favor.webp` | Camie Utsushimi | Shiketsu High | `license-hassaikai` | live |
+| `gang-orca-favor.webp` | Gang Orca | Pro Heroes | `license-hassaikai` | live |
+| `shindo-favor.webp` | Yo Shindo | Ketsubutsu Academy | `license-hassaikai` | live |
+
+## Approved portrait release — 2026-09-05
+
+Added the nine approved missing portraits: Naomasa Tsukauchi, Yosetsu Awase, Tiger, Kota Izumi, Yokumiru Mera, Inasa Yoarashi, Camie Utsushimi, Gang Orca, and Yo Shindo. Replaced Eri's previous portrait with the approved epilogue portrait.
+
+Kota and Eri deliberately use their epilogue appearances at the user's request. The index's earliest era and each manifest item's `era` describe roster availability, not the depicted portrait era; `portraitEra: "epilogue"` records these two visual overrides. This asset-only release does not change character ages, relationships, gameplay state, or mechanics. Stable NPC URIs are unchanged. Earlier images remain recoverable in Git history.

@@ -12,7 +12,7 @@
     ],
     "direction": "Hero Society Evidence"
   },
-  "count": 59,
+  "count": 68,
   "expected": 68,
   "items": [
     {
@@ -272,7 +272,8 @@
       "file": "eri-favor.webp",
       "subject": "Eri",
       "era": "license-hassaikai",
-      "sha256": "792de4c9e4e434cf0cbbea8b5dc7ac7f018f5218be4d936883ecb0c18a4df910"
+      "sha256": "06d125bd78e515076a7fb0de2bddef88ccf625dc8b00e7b5c66253d881e1e2cb",
+      "portraitEra": "epilogue"
     },
     {
       "id": "endeavor",
@@ -433,63 +434,64 @@
       "file": "tsukauchi-favor.webp",
       "subject": "Naomasa Tsukauchi",
       "era": "spring-usj",
-      "pending": true
+      "sha256": "c9ac7b8ee19b5fb197f144c6a7a9b29de5d4511626349a822bcf37e43559ccc7"
     },
     {
       "id": "awase",
       "file": "awase-favor.webp",
       "subject": "Yosetsu Awase",
       "era": "sports-festival",
-      "pending": true
+      "sha256": "5665f25935a8566e221e54c113ca90f6b62afe89d9775a36abe4cdd26cdf7a6f"
     },
     {
       "id": "tiger",
       "file": "tiger-favor.webp",
       "subject": "Tiger",
       "era": "finals-training-camp",
-      "pending": true
+      "sha256": "cac3767195be6bf5023f59d1342b08937877d015e4f6fd3572b27fc6fa2980c9"
     },
     {
       "id": "kota",
       "file": "kota-favor.webp",
       "subject": "Kota Izumi",
       "era": "finals-training-camp",
-      "pending": true
+      "sha256": "30d87c626024a61eb429175286c6bc32143835a8ee855d0a3a05de90860ee581",
+      "portraitEra": "epilogue"
     },
     {
       "id": "mera",
       "file": "mera-favor.webp",
       "subject": "Yokumiru Mera",
       "era": "license-hassaikai",
-      "pending": true
+      "sha256": "0bd3683808b8a718824c0f59eb43ebb6544ca4877c2a587afec3a08b2b4063ff"
     },
     {
       "id": "inasa",
       "file": "inasa-favor.webp",
       "subject": "Inasa Yoarashi",
       "era": "license-hassaikai",
-      "pending": true
+      "sha256": "0583aa6aff5c069d0f48775aea8233ed1ec1ce910b7de0f2259dd5b79ad47cd4"
     },
     {
       "id": "camie",
       "file": "camie-favor.webp",
       "subject": "Camie Utsushimi",
       "era": "license-hassaikai",
-      "pending": true
+      "sha256": "bfd232f00b8d7382d1a13a9bfca3f37765c9a2edf055952b76ac9d0c113097ce"
     },
     {
       "id": "gang-orca",
       "file": "gang-orca-favor.webp",
       "subject": "Gang Orca",
       "era": "license-hassaikai",
-      "pending": true
+      "sha256": "63da54fbe193fc4b1253afd3e22b52fc77b4d457d4a9083d10c9b5bd2ba1dfcb"
     },
     {
       "id": "shindo",
       "file": "shindo-favor.webp",
       "subject": "Yo Shindo",
       "era": "license-hassaikai",
-      "pending": true
+      "sha256": "5dcaf09df47a3782585517934c256e95a84b86e570a777f02945ec9b3fb9a1d8"
     }
   ]
 }
